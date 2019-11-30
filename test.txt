@@ -2,4 +2,4 @@ test file
 
 second test
 
-master
+origin
